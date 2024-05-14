@@ -1,0 +1,6 @@
+# Ignores Folders
+__pycache__/
+
+# Ignores all files with a particular extension
+
+*.log
